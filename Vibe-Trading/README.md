@@ -38,6 +38,8 @@ pip install vibe-trading-ai streamlit pandas requests yfinance
 Launch the interactive visual interface in your browser:
 ```powershell
 streamlit run app.py
+or
+python -m streamlit run app.py
 ```
 
 ---
