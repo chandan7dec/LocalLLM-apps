@@ -1,0 +1,5 @@
+Quarter,Ingested_Documents,Extraction_Accuracy_Pct,API_Latency_ms,Cost_Savings_USD
+Q1 2026,125000,98.2,320,45000
+Q2 2026,240000,98.7,280,92000
+Q3 2026,480000,99.4,210,185000
+Q4 2026 (Est),850000,99.6,185,320000
